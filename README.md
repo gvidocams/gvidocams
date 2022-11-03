@@ -3,7 +3,7 @@ I am a software Engineer aspiring to reach the mountain top of software developm
 ```c#
 var gvido = new Programmer() {
     fullName = "Gvido Andis Čams",
-    favouriteBeverage = "🍵Macha",
+    favouriteBeverage = "🍵Tea",
     languages = {CSharp, SQL, JavaScript, TypeScript, HTML, CSS},
     tools = {.NET, Git, VueJS, NodeJS},
     skills = {
